@@ -1,0 +1,14 @@
+{
+  "title": "Pont Chaban-Delmas",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pont Chaban-Delmas",
+        "description": "Ajouter l'intégration Pont Chaban-Delmas pour suivre les fermetures du pont."
+      }
+    },
+    "abort": {
+      "already_configured": "Le Pont Chaban-Delmas est déjà configuré."
+    }
+  }
+}

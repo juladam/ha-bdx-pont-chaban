@@ -1,0 +1,8 @@
+{
+    "name": "Bordeaux Pont Chaban Custom Component",
+    "filename": "Bordeaux_pontchaban.zip",
+    "hide_default_branch": false,
+    "homeassistant": "2024.6.1",
+    "render_readme": true,
+    "zip_release": false
+}

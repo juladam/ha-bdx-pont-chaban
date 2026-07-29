@@ -1,0 +1,14 @@
+{
+    "domain": "pont_chaban",
+    "name": "Pont Chaban-Delmas",
+    "documentation": "https://github.com/juladam/ha-bdx-pont-chaban",
+    "issue_tracker": "https://github.com/juladam/ha-bdx-pont-chaban/issues",
+    "dependencies": [],
+    "codeowners": [
+        "@juladam"
+    ],
+    "requirements": [],
+    "config_flow": true,
+    "iot_class": "cloud_polling",
+    "version": "1.0.0"
+}
